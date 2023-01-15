@@ -1,0 +1,25 @@
+Label,Ans
+Right,A linked list is the most sought after data structure when it comes to handling dynamic data elements
+Right,A linked list is a linear collection of data elements whose order is not given by their physical placement in memory
+Wrong,Confused with the answer
+Wrong,Not sure
+Right,Linked List can be defined as collection of objects called nodes that are randomly stored in the memory
+Right,A linked list is a sequence of data structures which are connected together via links
+Wrong,Not sure
+Right,Linked list is the second most-used data structure after array
+Right,It's the same as the list used in high-level language like python
+Right,Linked List is a sequence of links which contains items where each link contains a connection to another link
+Wrong,Not sure
+Wrong,I dont really know
+Wrong,Wrong guess
+Right,Linked list can be visualized as a chain of nodes where every node points to the next node
+Right,To access an element in a linked list we need to traverse every element until we reach the desired element
+Right,Elements are accessed sequentially in linked list
+Right, Random access of elements is not an allowed in linked list
+Right,To implement file system for separate chaining in hash-tables and to implement non-binary trees linked lists are used
+Wrong,Time must be spent traversing and changing the pointers
+Right,It’s a set of structures ordered not by their physical placement in memory but by logical links that are stored as a part of the info within the structure itself
+Right,A linked list is another way to collect similar data
+Wrong,Binary search is not inefficient with linked list
+Right,Linked lists are sequence of pointers which do not require extra space
+Right,Linear data structures like stacks and queues are also sometimes defined to be linked list
